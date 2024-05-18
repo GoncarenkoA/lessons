@@ -14,11 +14,11 @@
        font-family: Times New Roman, Arial Narrow, Comic Sans MS;
        color:#330033;
     }
-.neucha-regular {
-  font-family: "Neucha", cursive;
-  font-weight: 400;
+.bad-script-regular {
+  font-family: "Bad Script", cursive;
+  font-width: 100%;
   font-style: normal;
-  text-align: center;
+  height: 100%;
 }
 .zagl 
     {
